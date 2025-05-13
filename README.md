@@ -1,2 +1,3 @@
-# ifrs-cms2
-Configuration Management Systems (CMS)
+# Configuration Management Systems (CMS) training for Git and GitHub
+
+- Working with branches
